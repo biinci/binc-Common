@@ -1,0 +1,13 @@
+{
+    "name" : "com.binc.common",
+    "version" : "1.0.0",
+    "displayName": "binc Common",
+    "description": "Common of binc packages",
+    "unity" : "2023.2",
+    "dependencies": {},
+    "keywords": ["binc", "common", "data"],
+    "author": {
+        "name" : "Bilal İnci",
+        "email": "bilalinci6@gmail.com"
+    }
+}
